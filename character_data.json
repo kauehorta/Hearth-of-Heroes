@@ -1,0 +1,19 @@
+{
+    "456739994": {
+        "user_id": "456739994",
+        "name": "TesteK",
+        "level": 1,
+        "experience": 0,
+        "gold": 10,
+        "current_hp": 50,
+        "max_hp": 50,
+        "power_base": 5,
+        "grace_base": 5,
+        "knowledge_base": 5,
+        "actions": [
+            "attack",
+            "defend",
+            "heal"
+        ]
+    }
+}

@@ -1,0 +1,33 @@
+{
+  "mobs": [
+    {
+      "id": "rei_goblin",
+      "name": "Rei Goblin",
+      "description": "👑 Um goblin imponente com uma coroa feita de ossos e dentes podres. O Rei Goblin é mais forte e astuto que seus súditos, usando magia sombria para causar pânico e caos em quem ousa desafiá-lo.",
+      "hp": 120,
+      "power": 15,
+      "grace": 8,
+      "knowledge": 5,
+      "actions": [
+        {
+          "name": "Esmagamento Sombrio",
+          "type": "attack",
+          "description": "⚔️ O Rei Goblin ergue seu cetro e o esmaga no chão, canalizando energia sombria em um golpe devastador.",
+          "pre_description": "⚠️ O Rei Goblin ergue seu cetro ameaçadoramente, e uma aura sombria começa a envolvê-lo. Parece que ele está prestes a atacar com toda a sua força!"
+        },
+        {
+          "name": "Rugido Amaldiçoado",
+          "type": "debuff",
+          "description": "🗣️ O Rei Goblin solta um rugido de gelar os ossos, enfraquecendo as defesas de seus inimigos.",
+          "pre_description": "😨 O Rei Goblin inspira profundamente, preparando-se para soltar um rugido aterrorizante. Um calafrio percorre a espinha dos aventureiros, que sentem que algo sinistro está por vir..."
+        },
+        {
+          "name": "Regeneração",
+          "type": "heal",
+          "description": "🔮 O Rei Goblin canaliza magia sombria em seus ferimentos, recuperando parte de sua vida.",
+          "pre_description": "💀 O Rei Goblin fecha os olhos e murmura palavras em uma língua sombria, enquanto uma energia maléfica começa a envolver seus ferimentos. Parece que ele está tentando se curar!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "Health Potion": {
+    "type": "consumable",
+    "effect": {"hp_restore": 50}
+  },
+  "Sword": {
+    "type": "passive",
+    "effect": {"attack_bonus": 1}
+  }
+}

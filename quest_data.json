@@ -1,0 +1,26 @@
+{
+  "quests": [
+    {
+      "id": 1,
+      "name": "Derrote o Rei Goblin",
+      "requested_by": {
+        "name": "Fizzlewix, o Desvairado",
+        "profession": "Vidente Autoproclamado e Frequentador do Bar"
+      },
+      "encounters": [
+        {
+          "type": "fight",
+          "mob": "rei_goblin"
+        }
+      ],
+      "rewards": {
+        "gold_per_player": 100,
+        "item": {
+          "name": "A Meia Esquerda do Rei Goblin",
+          "description": "Uma meia antiga e malcheirosa que Fizzlewix jura ser um poderoso talismã. Só o cheiro dela já pode espantar seus inimigos... ou seus amigos."
+        }
+      },
+      "description": "Fizzlewix, o Desvairado, o 'vidente' autoproclamado do bar, diz que teve uma visão profética (ou talvez só um pesadelo depois de muitas canecas de cerveja). Segundo ele, o Rei Goblin roubou sua 'Meia da Alma' — uma relíquia fedorenta para o pé esquerdo que, segundo Fizzlewix, contém a essência do seu 'poder espiritual'. Embora todos os outros acreditem que seja apenas uma meia velha com um odor lendário, Fizzlewix oferece uma generosa recompensa para qualquer um corajoso (ou tolo) o suficiente para recuperá-la. Aventure-se no covil do Rei Goblin, mas esteja avisado — alguns cheiros duram mais que maldições."
+    }
+  ]
+}
